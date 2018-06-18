@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "NAME_TO_VISUALISE_VARIABLE:0"
+  metadata_path: "/mnt/c/tf-dev-summit-tensorboard-tutorial/labels_1024.tsv"
+  sprite {
+    image_path: "/mnt/c/tf-dev-summit-tensorboard-tutorial/sprite_1024.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
